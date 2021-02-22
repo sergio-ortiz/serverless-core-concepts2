@@ -1,1 +1,2 @@
 /name/* /.netlify/functions/using-path/:splat 200
+/query/* /.netlify/functions/using-query-params/:splat 200
